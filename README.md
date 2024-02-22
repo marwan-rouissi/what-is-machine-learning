@@ -91,7 +91,7 @@ Généralement lorsque l'on parle de validation croisée, on fait référence à
 
 Les différentes méthodes:
 - K-Folds:   
-Mets à profit de toutes les données à disposition en les divisant en K parites égales (folds) sur lesquelles on entraîne et teste un modèle pendant K itérations.   
+Mets à profit de toutes les données à disposition en les divisant en K parties égales (folds) sur lesquelles on entraîne et teste un modèle pendant K itérations.   
 À chaque itération, le modèle est entrainé sur K-1 folds et est testé sur le fold restant.
 
 ![image](https://github.com/marwan-rouissi/what-is-machine-learning/assets/115158061/06dcfc3b-d5ac-4194-85bb-6034b9321b31)
