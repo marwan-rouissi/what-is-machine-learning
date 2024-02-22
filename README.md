@@ -66,7 +66,6 @@ La classification supervisée (souvent appelée simplement classification) consi
 Pour ce faire, un classifieur (algorithme de ML) est entrainé sur des données similaires ou très proches des données que l'on souhaite classer.  
 supervisé = données classées en amont par l'humain.
 ## - F. La classification non supervisée
-La classification non supervisée, à l'inverse, concerne ...
 
 En contrepartie en classification non supervisée,
 
